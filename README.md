@@ -190,14 +190,6 @@ A personal portfolio for presenting projects, capabilities, development work and
 
 ---
 
-<div align="center">
-
-## 📈 CONTRIBUTION ACTIVITY
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehman-webcoder&bg_color=00000000&color=CBD5E1&line=22C55E&point=F59E0B&area=true&hide_border=true&custom_title=Abdul%20Rehman's%20Contribution%20Activity" width="95%"/>
-
-</div>
-
 ---
 
 <div align="center">
