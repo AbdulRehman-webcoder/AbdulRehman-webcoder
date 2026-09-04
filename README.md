@@ -190,8 +190,6 @@ A personal portfolio for presenting projects, capabilities, development work and
 
 ---
 
----
-
 <div align="center">
 
 ## 🐍 CONTRIBUTION SNAKE
